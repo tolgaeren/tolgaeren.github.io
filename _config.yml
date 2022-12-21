@@ -13,6 +13,7 @@ github_username: tolgaeren
 # Email and twitter are optional:
 email:
 twitter_username:
+linkedin_username: tolgaeren
 
 # Set this to true to get LaTeX math equation support
 use_math: true
